@@ -64,11 +64,11 @@ Unless dealing with special cases or custom software, J3 should be set to STD. A
 |          |DIP28/32 EPROM                       |1             |
 |SW1       |Push button momentary 6mm            |1             |
 
-Once everything is assembled, program your eprom with the correct [rom image](roms/), configure the board and you're done.
+Once everything is assembled, program your eprom with the correct [rom image](Roms/), configure the board and you're done.
 
 # Epyx FastLoad Manual
 
-For reference, the Epyx FastLoad manual is available [here](manual/)
+For reference, the Epyx FastLoad manual is available [here](Manual/)
 
 # Licence
 
