@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "BeaupreCircuitDesign")(type "KiCad")(uri "${KIPRJMOD}/BeaupreCircuitDesign.pretty")(options "")(descr ""))
+  (lib (name "C64-Expansion-Port")(type "KiCad")(uri "${KIPRJMOD}/C64-Expansion-Port.pretty")(options "")(descr ""))
+  (lib (name "Epyx")(type "KiCad")(uri "${KIPRJMOD}/Epyx.pretty")(options "")(descr ""))
+  (lib (name "Creative_Common")(type "KiCad")(uri "${KIPRJMOD}/Creative_Common.pretty")(options "")(descr ""))
+)

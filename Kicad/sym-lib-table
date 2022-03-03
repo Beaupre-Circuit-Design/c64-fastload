@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "BeaupreCircuitDesign")(type "KiCad")(uri "${KIPRJMOD}/BeaupreCircuitDesign.kicad_sym")(options "")(descr ""))
+  (lib (name "C64-Expansion-Port")(type "KiCad")(uri "${KIPRJMOD}/C64-Expansion-Port.kicad_sym")(options "")(descr ""))
+  (lib (name "Microchip_Technology")(type "KiCad")(uri "${KIPRJMOD}/Microchip_Technology.kicad_sym")(options "")(descr ""))
+  (lib (name "Epyx")(type "KiCad")(uri "${KIPRJMOD}/Epyx.kicad_sym")(options "")(descr ""))
+  (lib (name "FastLoad")(type "KiCad")(uri "${KIPRJMOD}/FastLoad.kicad_sym")(options "")(descr ""))
+  (lib (name "CreativeCommons")(type "KiCad")(uri "${KIPRJMOD}/CreativeCommons.kicad_sym")(options "")(descr ""))
+)
