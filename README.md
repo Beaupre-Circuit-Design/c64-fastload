@@ -1,6 +1,8 @@
 # Epyx FastLoad Cartridge
 
-![Epyx FastLoad Rendering](Images/Epyx-FastLoad.png)
+![Epyx FastLoad Rendering](Images/Epyx-FastLoad_Small.png)
+![Epyx FastLoad Populated](Images/Epyx-FastLoad_Populated_small.png)
+![Epyx FastLoad PCB](Images/Epyx-FastLoad_PCB_small.png)
 
 # Introduction
 
