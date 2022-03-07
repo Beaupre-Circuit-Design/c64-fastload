@@ -68,7 +68,7 @@ Once everything is assembled, program your eprom with the correct [rom image](Ro
 
 # Epyx FastLoad Manual
 
-For reference, the Epyx FastLoad manual is available [here](Manual/)
+For reference, the Epyx FastLoad manual is available [here](Manual/).
 
 # Licence
 
